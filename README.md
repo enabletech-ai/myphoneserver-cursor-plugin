@@ -8,6 +8,8 @@ The remote service operator and AI provider can read submitted source and logs. 
 
 An operator must deploy and verify the endpoint and register callbacks before distributing this generated package. Package generation alone does not establish a working connection.
 
+[Terms of service](https://pocketserver.enabletech.me/terms)
+
 [Acceptable use policy](https://pocketserver.enabletech.me/acceptable-use)
 
 [Privacy](https://pocketserver.enabletech.me/privacy)
