@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "myphoneserver": {
+      "url": "https://myphoneserver-mcp.enables-tech.workers.dev/mcp",
+      "auth": {
+        "CLIENT_ID": "cursor_AWa0VI5kKm7NC6youJJOBt8U",
+        "scopes": [
+          "phone:manage"
+        ]
+      }
+    }
+  }
+}

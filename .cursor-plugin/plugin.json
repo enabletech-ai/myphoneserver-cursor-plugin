@@ -1,0 +1,10 @@
+{
+  "name": "myphoneserver-remote",
+  "version": "0.1.1",
+  "description": "Phone-approved remote deployment, status and logs. No local MCP adapter.",
+  "author": {
+    "name": "EnableTech",
+    "email": "developer@enabletech.me"
+  },
+  "logo": "assets/icon.png"
+}
